@@ -1,4 +1,4 @@
-# Operating Systems concepts (IT-OPA3-33)
+# Operating Systems concepts (ITOPA3-33)
 
 ## Week 1 (Part 1)
 
